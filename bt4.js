@@ -16,6 +16,3 @@ if(bmi < 18.5){
     alert("Ban thuoc beo phi do II")
 }else if(bmi > 40){
     alert("Ban thuoc beo phi do III")
-}
-
-consolelog("You:",bmi)
