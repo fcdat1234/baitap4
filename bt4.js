@@ -17,3 +17,5 @@ if(bmi < 18.5){
 }else if(bmi > 40){
     alert("Ban thuoc beo phi do III")
 }
+
+consolelog(bmi)
